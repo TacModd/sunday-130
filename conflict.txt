@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+
+READ THIS CONFLICT PLS
+
+Its a graet tiem 2 bee aliev.
+=======
+Or would you prefer THIS grammatically coherent sentence
+>>>>>>> 84d1e0f0a139d1d2db70d4cea90ddb6550fed9ef
