@@ -6,6 +6,6 @@ Or would you prefer THIS grammatically coherent sentence
 
  HEAD >>>>> O
            /|\
-	   / \
+           / \
 
 Coolio.
