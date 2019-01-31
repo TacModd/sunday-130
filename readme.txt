@@ -1,3 +1,3 @@
 READ ME PLS
 
-It's a great time to be aliev.
+It's a great time to be alive.
